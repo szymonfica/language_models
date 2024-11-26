@@ -50,7 +50,7 @@ while len(words) > 1:
 if len(words) > 0:    
     paired_words.append(words[0])
     words.clear()
-
+    
 print(paired_words)
 
 ans = []
